@@ -1,0 +1,33 @@
+:root {
+  /* fonts */
+  --font-itim: Itim;
+  --font-josefin-sans: "Josefin Sans";
+  --font-indie-flower: "Indie Flower";
+  --font-inter: Inter;
+  --font-irish-grover: "Irish Grover";
+
+  /* font sizes */
+  --font-size-base: 13px;
+  --font-size-lg: 16px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 25px;
+  --font-size-4xl: 30px;
+  --font-size-5xl: 35px;
+  --font-size-6xl: 36px;
+  --font-size-7xl: 40px;
+  --font-size-8xl: 45px;
+  --font-size-9xl: 55px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro-100: #d9d9d9;
+  --color-mediumpurple: #9788f5;
+  --color-gray-100: #040404;
+  --color-gray-200: rgba(28, 27, 27, 0.7);
+
+  /* border radiuses */
+  --br-sm: 20px;
+  --br-md: 25px;
+}

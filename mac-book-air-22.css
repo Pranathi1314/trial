@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-blood-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 910px;
+  object-fit: cover;
+}
+.macbook-air-22-child {
+  position: absolute;
+  top: 265px;
+  left: 212px;
+  background-color: var(--color-gainsboro-100);
+  width: 811px;
+  height: 219px;
+}
+.have-you-ever {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.drugs {
+  margin: 0;
+}
+.have-you-ever-container {
+  position: absolute;
+  top: 265px;
+  left: 250px;
+  font-size: var(--font-size-8xl);
+  color: var(--color-black);
+}
+.macbook-air-22-item {
+  position: absolute;
+  top: 375px;
+  left: 375px;
+  background-color: var(--color-mediumpurple);
+  width: 103px;
+  height: 41px;
+  cursor: pointer;
+}
+.yes {
+  left: 406px;
+  display: inline-block;
+  width: 58px;
+  height: 28px;
+}
+.macbook-air-22-inner,
+.no,
+.yes {
+  position: absolute;
+  top: 375px;
+}
+.macbook-air-22-inner {
+  left: 587px;
+  background-color: var(--color-mediumpurple);
+  width: 103px;
+  height: 41px;
+  cursor: pointer;
+}
+.no {
+  left: 618px;
+  display: inline-block;
+  width: 58px;
+  height: 28px;
+}
+.macbook-air-22 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 797px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-itim);
+}

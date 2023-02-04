@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-blood-17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 910px;
+  object-fit: cover;
+}
+.macbook-air-26-child {
+  position: absolute;
+  top: 270px;
+  left: 258px;
+  background-color: var(--color-gainsboro-100);
+  width: 761px;
+  height: 176px;
+}
+.macbook-air-26-inner,
+.macbook-air-26-item {
+  position: absolute;
+  top: 375px;
+  background-color: var(--color-mediumpurple);
+  width: 103px;
+  height: 41px;
+  cursor: pointer;
+}
+.macbook-air-26-item {
+  left: 375px;
+}
+.macbook-air-26-inner {
+  left: 587px;
+}
+.no5,
+.yes5 {
+  position: absolute;
+  top: 375px;
+  display: inline-block;
+  width: 58px;
+  height: 28px;
+}
+.yes5 {
+  left: 406px;
+}
+.no5 {
+  left: 618px;
+}
+.have-any-serious {
+  position: absolute;
+  top: 304px;
+  left: 338px;
+  color: var(--color-black);
+}
+.macbook-air-26 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 797px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-itim);
+}

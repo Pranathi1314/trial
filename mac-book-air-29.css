@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-blood-22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 910px;
+  object-fit: cover;
+}
+.macbook-air-29-child,
+.macbook-air-29-item {
+  position: absolute;
+  top: 304px;
+  left: 292px;
+  background-color: var(--color-gainsboro-100);
+  width: 269px;
+  height: 69px;
+}
+.macbook-air-29-item {
+  left: 650px;
+}
+.blood-group2,
+.number-of-units {
+  position: absolute;
+  top: 250px;
+  left: 298px;
+}
+.number-of-units {
+  top: 253px;
+  left: 650px;
+}
+.macbook-air-29 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 797px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-itim);
+}

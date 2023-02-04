@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-blood-114 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 910px;
+  object-fit: cover;
+}
+.macbook-air-2-child {
+  position: absolute;
+  top: 79px;
+  left: 327px;
+  border-radius: 10px;
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(4px);
+  width: 685px;
+  height: 690px;
+}
+.the-lifenorth-foundation {
+  position: absolute;
+  top: 124px;
+  left: 439px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 441px;
+  height: 77px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  mix-blend-mode: normal;
+}
+.our-mission {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.our-mission-the-container {
+  position: absolute;
+  top: 261px;
+  left: 360px;
+  display: inline-block;
+  width: 618px;
+  height: 92px;
+}
+.added-bonus-a {
+  margin: 0;
+}
+.benefits-of-donating-container {
+  position: absolute;
+  top: 382px;
+  left: 478px;
+  display: inline-block;
+  width: 414px;
+  height: 108px;
+}
+.macbook-air-2-inner,
+.macbook-air-2-item {
+  position: absolute;
+  border-radius: var(--br-sm);
+  object-fit: cover;
+}
+.macbook-air-2-item {
+  top: 512px;
+  left: 399px;
+  width: 262px;
+  height: 188px;
+  opacity: 0.9;
+}
+.macbook-air-2-inner {
+  top: 503px;
+  left: 685px;
+  width: 312px;
+  height: 189px;
+  opacity: 0.8;
+}
+.macbook-air-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-irish-grover);
+}
